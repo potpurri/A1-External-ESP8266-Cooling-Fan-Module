@@ -1,2 +1,2 @@
 # A1-Extrenal-ESP8266-Cooling-Fan-Module
-ESP8266-board driving an external fan for improved cooling of nozzle and prints
+An ESP8266-based board controlling an external fan to enhance nozzle and print cooling on the Bambu Lab A1 3D printer.
