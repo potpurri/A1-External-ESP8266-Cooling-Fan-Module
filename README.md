@@ -26,17 +26,22 @@ The board includes the following components:
 Below are images of the PCB:
 
 <img src="imgs/3d-front.png" alt="3D Front" width="600">
-_3D render of the front view of the PCB_
+3D render of the front view of the PCB
+
 <img src="imgs/3d-back.png" alt="3D Back" width="600">
-_3D render of the back view of the PCB_
+3D render of the back view of the PCB
+
 <img src="imgs/front.png" alt="Front" width="600">
-_Front view of the actual PCB_
+Front view of the actual PCB
+
 <img src="imgs/gnd.png" alt="Ground" width="600">
-_Ground layer of the PCB stack-up_
+Ground layer of the PCB stack-up
+
 <img src="imgs/pwr.png" alt="Power" width="600">
-_Power layer of the PCB stack-up_
+Power layer of the PCB stack-up
+
 <img src="imgs/back.png" alt="Back" width="600">
-_Back view of the actual PCB_
+Back view of the actual PCB
 
 ## Schematics
 
