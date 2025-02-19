@@ -1,6 +1,6 @@
 # ESP8266-based Fan Control for Bambu Lab A1 3D Printer
 
-- ![3D Front](imgs/3d-front.png)
+![3D Front](imgs/3d-front.png)
 
 ## Overview
 
@@ -25,13 +25,12 @@ The board includes the following components:
 
 Below are images of the PCB:
 
-- ![3D Front](imgs/3d-front.png) _3D render of the front view of the PCB_
-- ![3D Back](imgs/3d-back.png) _3D render of the back view of the PCB_
-- ![Front](imgs/front.png) _Front view of the actual PCB_
-- ![Ground](imgs/gnd.png) _Ground layer of the PCB stack-up_
-- ![Power](imgs/pwr.png) _Power layer of the PCB stack-up_
-- ![Back](imgs/back.png) _Back view of the actual PCB_
-
+- <img src="imgs/3d-front.png" alt="3D Front" width="300"> _3D render of the front view of the PCB_
+- <img src="imgs/3d-back.png" alt="3D Back" width="300"> _3D render of the back view of the PCB_
+- <img src="imgs/front.png" alt="Front" width="300"> _Front view of the actual PCB_
+- <img src="imgs/gnd.png" alt="Ground" width="300"> _Ground layer of the PCB stack-up_
+- <img src="imgs/pwr.png" alt="Power" width="300"> _Power layer of the PCB stack-up_
+- <img src="imgs/back.png" alt="Back" width="300"> _Back view of the actual PCB_
 ## Schematics
 
 For detailed schematics, please refer to the [schematic PDF](imgs/schematic.pdf).
